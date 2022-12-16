@@ -1,6 +1,6 @@
 # Face-Mask-and-Social-Distance-Detection
 #### In this project, we bulid a Deep Learning Model based on MobileNetV2 and YOLOv3 to detect live Face Masks and Social Distancing respectively. MobileNetV2 and YOLO are used here in order to minimize the run time and maximize the Frames Per Second(FPS) when live inferencing, while not significantly sacrificing the accuracy. 
-
+## Working of the model [Video](https://drive.google.com/file/d/1ki2M_mHLPwd6p-xwYO-mo5DGLiAqoTbF/view?usp=share_link)
 <br>
 
 ## To run the inference on local machine:

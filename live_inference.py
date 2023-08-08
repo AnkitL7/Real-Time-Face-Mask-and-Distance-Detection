@@ -126,7 +126,7 @@ ln = [ln[i - 1] for i in net.getUnconnectedOutLayers()]
 # initialize the video stream and pointer to output video file
 print("[INFO] accessing video stream...")
 #vs = cv2.VideoCapture(args["input"] if args["input"] else 0)
-vs = cv2.VideoCapture('street.mp4')
+vs = cv2.VideoCapture('pers.mp4')
 
 writer = None
 # loop over the frames from the video stream
